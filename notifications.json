@@ -4,13 +4,13 @@
       "id": "4",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543124132",
+      "timestamp": "176554312132",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
-        "en": "Welcome!",
-        "ar": "مرحبا!",
-        "tr": "Hoşgeldiniz!"
+        "en": "Welcme!",
+        "ar": "مرحا!",
+        "tr": "Hoşgeldniz!"
       },
       "message": {
         "en": "Check out our latest features.",
@@ -22,13 +22,13 @@
       "id": "5",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543124132",
+      "timestamp": "176554312132",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
         "en": "New Song Released",
         "ar": "تم إصدار أغنية جديدة",
-        "tr": "Yeni Şarkı Yayınlandı"
+        "tr": "Yeni Şarkı Yayınlanı"
       },
       "message": {
         "en": "Listen now to our fresh track!",
