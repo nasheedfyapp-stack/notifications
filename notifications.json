@@ -1,0 +1,58 @@
+{
+  "notifications": [
+    {
+      "id": "1",
+      "icon": "ic_notify_system",
+      "tag": "App",
+      "timestamp": "1765191238727",
+      "read": false,
+      "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
+      "title": {
+        "en": "Welcome!",
+        "ar": "مرحبا!",
+        "tr": "Hoşgeldiniz!"
+      },
+      "message": {
+        "en": "Check out our latest features.",
+        "ar": "اطلع على أحدث الميزات لدينا.",
+        "tr": "Son özelliklerimizi keşfedin."
+      }
+    },
+    {
+      "id": "2",
+      "icon": "ic_notify_system",
+      "tag": "App",
+      "timestamp": "1765192238728",
+      "read": false,
+      "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
+      "title": {
+        "en": "New Song Released",
+        "ar": "تم إصدار أغنية جديدة",
+        "tr": "Yeni Şarkı Yayınlandı"
+      },
+      "message": {
+        "en": "Listen now to our fresh track!",
+        "ar": "استمع الآن لأغنيتنا الجديدة!",
+        "tr": "Yeni şarkımızı şimdi dinleyin!"
+      }
+    },
+    {
+      "id": "3",
+      "icon": "ic_notify_system",
+      "tag": "App",
+      "timestamp": "1765193238729",
+      "read": false,
+      "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
+      "title": {
+        "en": "Don't Miss Out",
+        "ar": "لا تفوت الفرصة",
+        "tr": "Kaçırmayın"
+      },
+      "message": {
+        "en": "Exclusive content available now.",
+        "ar": "محتوى حصري متاح الآن.",
+        "tr": "Özel içerik şimdi mevcut."
+      }
+    }
+  ]
+}
