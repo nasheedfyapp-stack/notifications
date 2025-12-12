@@ -1,16 +1,16 @@
 {
   "notifications": [
     {
-      "id": "10",
+      "id": "54",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543124132",
+      "timestamp": "1765543124151",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
         "en": "Welc!",
-        "ar": "مرا!",
-        "tr": "Hoşgeliz!"
+        "ar": "مرا",
+        "tr": "Hoşliz!"
       },
       "message": {
         "en": "Check out our latest features.",
