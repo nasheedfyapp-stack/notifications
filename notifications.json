@@ -1,16 +1,16 @@
 {
   "notifications": [
     {
-      "id": "54",
+      "id": "1",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543551140",
+      "timestamp": "1765543629170",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
-        "en": "Welc!",
-        "ar": "مرا",
-        "tr": "Hoşliz!"
+        "en": "Welcome!",
+        "ar": "مرحبا!",
+        "tr": "Hoşgeldiniz!"
       },
       "message": {
         "en": "Check out our latest features.",
@@ -19,16 +19,16 @@
       }
     },
     {
-      "id": "5",
+      "id": "2",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543551140",
+      "timestamp": "1765543629170",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
         "en": "New Song Released",
         "ar": "تم إصدار أغنية جديدة",
-        "tr": "Yeni Şarkı Yayınlanı"
+        "tr": "Yeni Şarkı Yayınlandı"
       },
       "message": {
         "en": "Listen now to our fresh track!",
@@ -37,10 +37,10 @@
       }
     },
     {
-      "id": "6",
+      "id": "3",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543551140",
+      "timestamp": "1765543629170",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
@@ -52,6 +52,42 @@
         "en": "Exclusive content available now.",
         "ar": "محتوى حصري متاح الآن.",
         "tr": "Özel içerik şimdi mevcut."
+      }
+    },
+    {
+      "id": "4",
+      "icon": "ic_notify_system",
+      "tag": "App",
+      "timestamp": "1765543629170",
+      "read": false,
+      "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
+      "title": {
+        "en": "Daily Update",
+        "ar": "تحديث اليومي",
+        "tr": "Günlük Güncelleme"
+      },
+      "message": {
+        "en": "See what's new today!",
+        "ar": "اطلع على الجديد اليوم!",
+        "tr": "Bugün neler yeni bakın!"
+      }
+    },
+    {
+      "id": "5",
+      "icon": "ic_notify_system",
+      "tag": "App",
+      "timestamp": "1765543629170",
+      "read": false,
+      "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
+      "title": {
+        "en": "Special Offer",
+        "ar": "عرض خاص",
+        "tr": "Özel Teklif"
+      },
+      "message": {
+        "en": "Don't miss our limited time offer.",
+        "ar": "لا تفوت عرضنا المحدود.",
+        "tr": "Sınırlı süreli teklifimizi kaçırmayın."
       }
     }
   ]
