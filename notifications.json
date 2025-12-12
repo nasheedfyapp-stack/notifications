@@ -1,82 +1,82 @@
 {
   "notifications": [
     {
-      "id": "120",
+      "id": "501",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543629179",
+      "timestamp": "1765543910345",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
-        "en": "Welcome!",
-        "ar": "مرحبا!",
-        "tr": "Hoşgeldiniz!"
+        "en": "Hello User!",
+        "ar": "مرحبا بالمستخدم!",
+        "tr": "Merhaba Kullanıcı!"
       },
       "message": {
-        "en": "Check out our latest features.",
-        "ar": "اطلع على أحدث الميزات لدينا.",
-        "tr": "Son özelliklerimizi keşfedin."
+        "en": "Discover new updates today.",
+        "ar": "اكتشف التحديثات الجديدة اليوم.",
+        "tr": "Bugün yeni güncellemeleri keşfedin."
       }
     },
     {
-      "id": "102",
+      "id": "502",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543629170",
+      "timestamp": "1765543910345",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
-        "en": "New Song Released",
-        "ar": "تم إصدار أغنية جديدة",
-        "tr": "Yeni Şarkı Yayınlandı"
+        "en": "Top Hits",
+        "ar": "أفضل الأغاني",
+        "tr": "En Popüler Şarkılar"
       },
       "message": {
-        "en": "Listen now to our fresh track!",
-        "ar": "استمع الآن لأغنيتنا الجديدة!",
-        "tr": "Yeni şarkımızı şimdi dinleyin!"
+        "en": "Listen to today's top hits now!",
+        "ar": "استمع إلى أفضل الأغاني اليوم الآن!",
+        "tr": "Bugünün en popüler şarkılarını şimdi dinleyin!"
       }
     },
     {
-      "id": "103",
+      "id": "503",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543629170",
+      "timestamp": "1765543910345",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
-        "en": "Don't Miss Out",
-        "ar": "لا تفوت الفرصة",
-        "tr": "Kaçırmayın"
+        "en": "Event Alert",
+        "ar": "تنبيه حدث",
+        "tr": "Etkinlik Uyarısı"
       },
       "message": {
-        "en": "Exclusive content available now.",
-        "ar": "محتوى حصري متاح الآن.",
-        "tr": "Özel içerik şimdi mevcut."
+        "en": "Don't miss our special event tomorrow.",
+        "ar": "لا تفوت حدثنا الخاص غدًا.",
+        "tr": "Yarınki özel etkinliğimizi kaçırmayın."
       }
     },
     {
-      "id": "104",
+      "id": "504",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543629170",
+      "timestamp": "1765543910345",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
-        "en": "Daily Update",
-        "ar": "تحديث اليومي",
-        "tr": "Günlük Güncelleme"
+        "en": "Reminder",
+        "ar": "تذكير",
+        "tr": "Hatırlatma"
       },
       "message": {
-        "en": "See what's new today!",
-        "ar": "اطلع على الجديد اليوم!",
-        "tr": "Bugün neler yeni bakın!"
+        "en": "Check your playlists for new tracks.",
+        "ar": "تحقق من قوائم التشغيل الخاصة بك للأغاني الجديدة.",
+        "tr": "Yeni parçalar için çalma listelerinizi kontrol edin."
       }
     },
     {
-      "id": "105",
+      "id": "505",
       "icon": "ic_notify_system",
       "tag": "App",
-      "timestamp": "1765543629170",
+      "timestamp": "1765543910345",
       "read": false,
       "image_url": "https://xkzlprctlecfcdppeoli.supabase.co/storage/v1/object/public/Pics/1765472198335.jpg",
       "title": {
@@ -85,9 +85,9 @@
         "tr": "Özel Teklif"
       },
       "message": {
-        "en": "Don't miss our limited time offer.",
-        "ar": "لا تفوت عرضنا المحدود.",
-        "tr": "Sınırlı süreli teklifimizi kaçırmayın."
+        "en": "Enjoy our exclusive content today.",
+        "ar": "استمتع بمحتوى حصري اليوم.",
+        "tr": "Bugün özel içeriğimizin tadını çıkarın."
       }
     }
   ]
